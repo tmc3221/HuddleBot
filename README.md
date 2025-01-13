@@ -1,6 +1,6 @@
 # HuddleBot
 
-**Huddle-Bot** is your ultimate AI-powered **fantasy football advisor**—designed to transform how you make decisions in your fantasy leagues. Powered by advanced machine learning and real-time data analysis, **Huddle-Bot** provides you with **unbiased, accurate projections**, eliminating human bias and outdated trends.
+**Huddle-Bot** is your ultimate AI-powered **fantasy football advisor**—designed to transform how you make decisions in your fantasy leagues. Powered by advanced machine learning and real-time data analysis, **Huddle-Bot** provides you with **unbiased, accurate projections** by eliminating human bias and outdated trends.
 
 ## What is Huddle-Bot?
 
