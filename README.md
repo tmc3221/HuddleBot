@@ -47,10 +47,10 @@ Here’s how it works:
 
 *Huddle-Bot's Predictions*
 
-![Huddle-Bot Dashboard](assets/images/Example2.png)
+![Huddle-Bot Dashboard](assets/images/Example1.png)
 
 *Huddle-Bot's Generated Lineup*
-![Huddle-Bot Dashboard](assets/images/Example1.png)
+![Huddle-Bot Dashboard](assets/images/Example2.png)
 
 Experience **Huddle-Bot** in action! Watch how it outperforms traditional projection tools like **ESPN** and **Yahoo! Sports** with the help of its advanced algorithms.
 
