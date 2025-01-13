@@ -9,8 +9,8 @@ Huddle-Bot is an **innovative fantasy football prediction tool** that optimizes 
 ### Key Features:
 
 - **Real-time Data Processing**: Analyzes current data, player performance trends, and injury reports to provide the most up-to-date projections.
-- **Machine Learning Algorithms**: Learns from past seasons and player statistics to improve accuracy over time.
-- **Eliminates Bias**: Unlike traditional projections, Huddle-Bot minimizes human bias, focusing solely on data-driven predictions.
+- **Machine Learning Algorithms**: Learns from past performances and player statistics to improve accuracy over time.
+- **Eliminates Bias**: Unlike traditional projections, Huddle-Bot requires **no human input**, focusing solely on data-driven predictions.
 - **Elite Accuracy**: With an average error of **±3.56 points**, Huddle-Bot consistently outperforms traditional platforms like **ESPN**, which produces an average error of **±4.15 points**.
 
 ### Accuracy Comparison:
