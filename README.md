@@ -45,7 +45,8 @@ Here’s how it works:
 *Huddle-Bot Dashboard*
 ![Huddle-Bot Dashboard](assets/images/HuddleBotDashboard.png)
 
-*Huddle-Bot Past Predictions*
+*Huddle-Bot's Predictions*
+
 ![Huddle-Bot Dashboard](assets/images/Example2.png)
 
 *Huddle-Bot's Generated Lineup*
