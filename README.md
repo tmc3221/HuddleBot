@@ -82,6 +82,7 @@ Feel free to reach out! We’re here to help.
 
 ## Future Features
 
+- **Deployment**: Expect deployment of the Huddle-Bot UI by the 2025-2026 season!
 - **Draft Rankings**: Stay tuned for way too early 2025-2026 Fantasy Football Draft rankings!
 - **Advanced Player Comparisons**: Coming soon, we'll add tools to compare players side by side, factoring in all relevant stats.
 - **Boom or Bust**: Get dynamic point projections representing a player's cieling and floor for production.
