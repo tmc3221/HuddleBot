@@ -1,2 +1,86 @@
 # HuddleBot
-Huddle-Bot: Your fantasy football advisor.
+
+**Huddle-Bot** is your ultimate AI-powered **fantasy football advisor**—designed to transform how you make decisions in your fantasy leagues. Powered by advanced machine learning and real-time data analysis, **Huddle-Bot** provides you with **unbiased, accurate projections**, eliminating human bias and outdated trends.
+
+## What is Huddle-Bot?
+
+Huddle-Bot is an **innovative fantasy football prediction tool** that optimizes lineup decisions by leveraging **advanced data analysis** and **machine learning algorithms**. Unlike traditional platforms, **Huddle-Bot** is built with a focus on **eliminating human bias** by valuing historical datasets, player performance trends, and injury reports to provide insights that are more reliable and dynamic.
+
+### Key Features:
+
+- **Real-time Data Processing**: Analyzes current data, player performance trends, and injury reports to provide the most up-to-date projections.
+- **Machine Learning Algorithms**: Learns from past seasons and player statistics to improve accuracy over time.
+- **Eliminates Bias**: Unlike traditional projections, Huddle-Bot minimizes human bias, focusing solely on data-driven predictions.
+- **Elite Accuracy**: With an average error of **±3.56 points**, Huddle-Bot consistently outperforms traditional platforms like **ESPN**, which produces an average error of **±4.15 points**.
+
+### Accuracy Comparison:
+In **head-to-head testing**, Huddle-Bot has proven its ability to deliver more accurate predictions, particularly in scenarios with dynamically evolving player situations. It has been shown to offer a **more reliable edge** compared to industry leaders.
+
+---
+
+## How Huddle-Bot Works
+
+Huddle-Bot is built to give you the competitive advantage you need in your fantasy leagues. By analyzing real-time player data and predicting outcomes based on evolving situations, Huddle-Bot is capable of outperforming traditional projections, especially in fast-changing environments. The tool adapts dynamically as new data comes in, ensuring your projections stay as accurate as possible.
+
+Here’s how it works:
+
+1. **Data Collection**: Huddle-Bot pulls data from a wide variety of sources, including player stats, performance trends, and injury updates.
+2. **Data Analysis**: Using machine learning algorithms, the tool processes historical and real-time data to provide accurate projections.
+3. **Projections**: The system generates lineup recommendations and predictions, including risk assessments for various player choices.
+4. **Optimization**: By learning from each season, Huddle-Bot becomes smarter, providing more accurate results over time.
+
+---
+
+## Why Choose Huddle-Bot?
+
+- **Proven Accuracy**: With an average error of **±3.56 points**, Huddle-Bot provides **elite accuracy** compared to traditional projection tools.
+- **Smarter Decision Making**: Gain an edge over your competition with a tool that processes and adapts to complex scenarios in real time.
+- **Real-Time Insights**: Get projections based on live data, including injury updates and game-time decisions.
+- **Bias-Free Predictions**: Enjoy unbiased insights, unlike traditional platforms influenced by subjective opinions and outdated trends.
+
+---
+
+## Huddle-Bot in Action
+
+![Insert Image of Dashboard / Projections]
+
+Experience **Huddle-Bot** in action! Watch how it outperforms traditional projection tools like **ESPN** and **Yahoo! Sports** with the help of its advanced algorithms.
+
+![Insert Graphs / Comparison Images showing Huddle-Bot’s accuracy vs. traditional platforms]
+
+---
+
+## Get Started
+
+### 1. **Check out the 2024 Projections**  
+Explore the **2024 Projections** and see how Huddle-Bot delivers smarter lineup recommendations.  
+[Huddle-Bot 2024 Projections](https://tinyurl.com/HuddleBot)
+
+### 2. **Watch the Demo**  
+Want to see how Huddle-Bot works? Check out this demo video to see it in action:  
+[Huddle-Bot Demo Video](https://youtu.be/Vu_peqmluMI)
+
+### 3. **Have Questions?**  
+Feel free to reach out! We’re here to help.  
+**Email**: [tmcurti4@ncsu.edu](mailto:tmcurti4@ncsu.edu)
+
+---
+
+## Screenshots / Images
+
+![Insert Image of Huddle-Bot in use, such as a screenshot of projected fantasy football results]
+
+---
+
+## Future Features
+
+- **Advanced Player Comparisons**: Coming soon, we'll add tools to compare players side by side, factoring in all relevant stats.
+- **Real-time Game Insights**: Stay tuned for updates that will provide live feedback during games, helping you adjust your lineup based on in-game performance.
+- **Dynamic Rankings**: Get custom player rankings that adapt based on your league's unique scoring system and roster composition.
+
+---
+
+## License
+
+Huddle-Bot is **open-source** and free to use for fantasy football enthusiasts.  
+**License**: MIT License
