@@ -24,10 +24,10 @@ Huddle-Bot is built to give you the competitive advantage you need in your fanta
 
 Here’s how it works:
 
-1. **Data Collection**: Huddle-Bot pulls data from a wide variety of sources, including player stats, performance trends, and injury updates.
+1. **Data Collection**: Huddle-Bot pulls data from a wide variety of sources, including player stats, opponents stats, performance trends, and injury updates.
 2. **Data Analysis**: Using machine learning algorithms, the tool processes historical and real-time data to provide accurate projections.
-3. **Projections**: The system generates lineup recommendations and predictions, including risk assessments for various player choices.
-4. **Optimization**: By learning from each season, Huddle-Bot becomes smarter, providing more accurate results over time.
+3. **Projections**: The system generates a prediction for the player's fantasy output.
+4. **Optimization**: By learning from each game, Huddle-Bot becomes smarter, providing more accurate results over time.
 
 ---
 
@@ -42,11 +42,20 @@ Here’s how it works:
 
 ## Huddle-Bot in Action
 
-![Insert Image of Dashboard / Projections]
+*Huddle-Bot Dashboard*
+![Huddle-Bot Dashboard](assets/images/HuddleBotDashboard.png)
+
+*Huddle-Bot Past Predictions*
+![Huddle-Bot Dashboard](assets/images/Example2.png)
+
+*Huddle-Bot's Generated Lineup*
+![Huddle-Bot Dashboard](assets/images/Example1.png)
 
 Experience **Huddle-Bot** in action! Watch how it outperforms traditional projection tools like **ESPN** and **Yahoo! Sports** with the help of its advanced algorithms.
 
-![Insert Graphs / Comparison Images showing Huddle-Bot’s accuracy vs. traditional platforms]
+![Huddle-Bot QB Accuracy](assets/images/HB1.png)
+![Huddle-Bot RB/FB Accuracy](assets/images/HB2.png)
+![Huddle-Bot WR/TE Accuracy](assets/images/HB1.png)
 
 ---
 
@@ -66,16 +75,11 @@ Feel free to reach out! We’re here to help.
 
 ---
 
-## Screenshots / Images
-
-![Insert Image of Huddle-Bot in use, such as a screenshot of projected fantasy football results]
-
----
-
 ## Future Features
 
+- **Draft Rankings**: Stay tuned for way too early 2025-2026 Fantasy Football Draft rankings!
 - **Advanced Player Comparisons**: Coming soon, we'll add tools to compare players side by side, factoring in all relevant stats.
-- **Real-time Game Insights**: Stay tuned for updates that will provide live feedback during games, helping you adjust your lineup based on in-game performance.
+- **Boom or Bust**: Get dynamic point projections representing a player's cieling and floor for production.
 - **Dynamic Rankings**: Get custom player rankings that adapt based on your league's unique scoring system and roster composition.
 
 ---
