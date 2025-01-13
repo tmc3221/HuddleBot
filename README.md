@@ -52,11 +52,15 @@ Here’s how it works:
 
 ![Huddle-Bot Dashboard](assets/images/Example2.png)
 
-Experience **Huddle-Bot** in action! Watch how it outperforms traditional projection tools like **ESPN** and **Yahoo! Sports** with the help of its advanced algorithms.
+## Proven Accuracy
+
+Watch how **Huddle-Bot** outperforms traditional projection tools like **ESPN** and **Yahoo! Sports** with the help of its advanced algorithms.
 
 ![Huddle-Bot QB Accuracy](assets/images/HB1.png)
+
 ![Huddle-Bot RB/FB Accuracy](assets/images/HB2.png)
-![Huddle-Bot WR/TE Accuracy](assets/images/HB1.png)
+
+![Huddle-Bot WR/TE Accuracy](assets/images/HB3.png)
 
 ---
 
