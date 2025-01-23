@@ -43,14 +43,14 @@ Here’s how it works:
 ## Huddle-Bot in Action
 
 *Huddle-Bot Dashboard*
-![Huddle-Bot Dashboard](assests/images/HuddleBotDashboard.png)
+![Huddle-Bot Dashboard](assets/images/HuddleBotDashboard.png)
 
 *Huddle-Bot's Predictions*
-![Huddle-Bot Dashboard](assests/images/Example1.png)
+![Huddle-Bot Dashboard](assets/images/Example1.png)
 
 *Huddle-Bot's Generated Lineup*
 
-![Huddle-Bot Dashboard](assests/images/Example2.png)
+![Huddle-Bot Dashboard](assets/images/Example2.png)
 
 ## Proven Accuracy
 
