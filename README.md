@@ -56,11 +56,13 @@ Here’s how it works:
 
 Watch how **Huddle-Bot** outperforms traditional projection tools like **ESPN** and **Yahoo! Sports** with the help of its advanced algorithms.
 
-![Huddle-Bot QB Accuracy](assets/images/HB1.png)
+![IQR](assests/images/IQR.png)
 
-![Huddle-Bot RB/FB Accuracy](assets/images/HB2.png)
+![ESPN HB Comparison](assests/images/ESPNvsHB.png)
 
-![Huddle-Bot WR/TE Accuracy](assets/images/HB3.png)
+![Huddle-Bot](assests/images/HBStats.png)
+
+![ESPN](assests/images/ESPNStats.png)
 
 ---
 
@@ -84,6 +86,7 @@ Feel free to reach out! We’re here to help.
 
 - **Deployment**: Expect deployment of the Huddle-Bot UI by the 2025-2026 season!
 - **Draft Rankings**: Stay tuned for way too early 2025-2026 Fantasy Football Draft rankings!
+- **X - Factor**: Think you know more than Huddle-Bot? Choose a player's attribute (ie: rushing, passing, etc) that **you** think he'll excel in!
 - **Advanced Player Comparisons**: Coming soon, we'll add tools to compare players side by side, factoring in all relevant stats.
 - **Boom or Bust**: Get dynamic point projections representing a player's cieling and floor for production.
 - **Dynamic Rankings**: Get custom player rankings that adapt based on your league's unique scoring system and roster composition.
