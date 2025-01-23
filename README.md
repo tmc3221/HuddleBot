@@ -56,13 +56,13 @@ Here’s how it works:
 
 Watch how **Huddle-Bot** outperforms traditional projection tools like **ESPN** and **Yahoo! Sports** with the help of its advanced algorithms.
 
-![IQR](assests/images/IQR.png)
+![IQR](assets/images/IQR.png)
 
-![ESPN HB Comparison](assests/images/ESPNvsHB.png)
+![ESPN HB Comparison](assets/images/ESPNvsHB.png)
 
-![Huddle-Bot](assests/images/HBStats.png)
+![Huddle-Bot](assets/images/HBStats.png)
 
-![ESPN](assests/images/ESPNStats.png)
+![ESPN](assets/images/ESPNStats.png)
 
 ---
 
